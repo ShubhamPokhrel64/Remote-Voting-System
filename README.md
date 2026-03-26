@@ -1,7 +1,10 @@
-# Remote-Voting-System
-A secure, constituency-based Remote Voting System in C featuring DJB2 hashed authentication, real-time voter turnout analytics, and automated result processing.
+
 
 # 🗳️ Secure Remote Voting System (Nepal Edition)
+**A 1st Semester Project | Computer Engineering | Pulchowk Campus, IOE**
+
+This system was developed as part of our first-semester project to demonstrate 
+foundational C programming, file-based data structures, and security implementation.
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
